@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Prasoon
 
-<!--
-**PrasoonAg/PrasoonAg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious mind with a passion for technology and a constant drive to learn, experiment, and build. I enjoy exploring how things work, turning ideas into projects, and challenging myself to learn something new along the way.
 
-Here are some ideas to get you started:
+Currently exploring my way into **AI, Machine Learning, and LLMs**, while strengthening my programming fundamentals and development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Learning:** Python, with a focus on building strong programming fundamentals.
+- **Technologies:** Python, HTML, CSS, Git, and GitHub.
+- **Exploring:** AI/ML, LLMs, and Vibe Coding.
+- **Let's talk about:** Python, problem-solving, AI/ML, hackathons, and project development.
+
+### My Goals
+- Explore NumPy, Pandas, and the mathematics behind Machine Learning.
+- Strengthen my DSA and problem-solving skills.
+- Explore and contribute to open-source projects.
+- Build meaningful projects and grow into a well-rounded engineer.
+
+Always learning, always building.
+
+Thanks for stopping by!
